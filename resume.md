@@ -48,3 +48,16 @@
     * 0day
     * FREAK/MITM
     * Spoofing
+## Work Experience
+* #### Full Stack Developer
+   ##### R2000: from August 2017 to current time
+       Workflow as a software development platform.
+         * Web Scraping russian government sites(registries with information about organizations)
+         * Export xml from ftp zakupki.gov.ru and processing result(~1 000 000 files in just 1 days)
+         * Defined an architecture
+         * Configured production server
+         * Contenerized tests
+         * Implemented the core functionality
+         * Front-End application
+         * Build RestFullAPI
+  Technologies: Python, PHP, Django, MySql, PostgreSql, Nginx, Bootstrap, MDL, HTML, CSS.
