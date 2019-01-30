@@ -24,6 +24,7 @@
     * Git
     * Bitrix
     * Nginx/Apache
+    * CGI-scripts
 * #### Front-end
     * JavaScript, JQuery, Ajax, ES7
     * HTML, HTML5
