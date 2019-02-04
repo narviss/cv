@@ -41,6 +41,7 @@
     * Django
     * MySQL, PostgreSQL
     * Jupyter    
+    * MPI, Cuda - Paralell Programming 
 * #### Testing/Penetration
     * XSS/CSRF
     * SQL Injection
