@@ -34,6 +34,7 @@
     * Bootstrap
     * Sass, Less
     * Photoshop
+    * Qt App, PyQt, PHP-Qt, Qt C++
 * #### Back-end
     * Python
     * Php
