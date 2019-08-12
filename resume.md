@@ -1,6 +1,6 @@
 ## Vadim Sheludko
 * Full stack Python/PHP developer
-* 4th Year Computer Science / Applied Maths student
+* Bachelor of science applied mathematics and computer science
 * E-Mail: ivad1004@gmail.com
 * Telegram: @narviss
 
@@ -43,6 +43,11 @@
     * MySQL, PostgreSQL
     * Jupyter    
     * MPI, Cuda - Paralell Programming 
+* #### Machine Learning
+    * Scikit-learn
+    * TensorFlow
+    * Azure Machine Learning Studio
+    * PHP-ai/PHP-ml
 * #### Testing/Penetration
     * XSS/CSRF
     * SQL Injection
