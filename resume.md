@@ -6,6 +6,7 @@
 
 ## Summary
 * Over two year of commerical development experience in Python/PHP/Django
+* Bachelor in Applied Mathematics and Computer Science
 * Grasp of classical Algorithms / Data Structures / Design Patterns
 * Follower of the best development practices - Kanban, Prettier, Slack, Git, Unit Testing, TDD, Trello, PHPdoc
 * Skilled in writing C/C++ code
