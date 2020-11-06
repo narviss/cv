@@ -1,12 +1,12 @@
 ## Vadim Sheludko
 * Full stack Python/PHP developer
-* Bachelor of science applied mathematics and computer science
-* E-Mail: ivad1004@gmail.com
+* Bachelor degree diploma of science applied mathematics and computer science(Far Eastern Federal University)
+* Magistrate degree diploma of science applied mathematics and computer science(Saint-Petersburg State University)
+* E-Mail: narviss@bk.ru
 * Telegram: @narviss
 
 ## Summary
-* Over two year of commerical development experience in Python/PHP/Django
-* Bachelor in Applied Mathematics and Computer Science
+* Over three year of commerical development experience in Python/PHP/Django
 * Grasp of classical Algorithms / Data Structures / Design Patterns
 * Follower of the best development practices - Kanban, Prettier, Slack, Git, Unit Testing, TDD, Trello, PHPdoc
 * Skilled in writing C/C++ code
@@ -77,21 +77,20 @@
    * Contenerized tests
    * Implemented the core functionality
    * Front-End application
-   * Build RestFullAPI
+   * SOAP
          
   Technologies: Python, PHP, Django, MySql, MDL
      
   ##### Unilight: from September 2019 to current time
    
-   Development of internal commercial software for controlling smart devices
+   Development of internal commercial software for controlling smart devices.
    
    Workflow as a software development platform:
-   * Defined an architecture
-   * Configured production server
-   * Contenerized tests
-   * Implemented the core functionality
-   * Back-End application
-   * Front-End application
-   * Build RestFullAPI
+    * Integration with MQTT
+    * Configured network protocols
+    * Structured testing
+    * Back-End application
+    * Front-End application
+    * Build RestFullAPI
          
   Technologies: PHP, PostgreSql, Codeigniter, Vue.js, Bash, MQTT
