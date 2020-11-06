@@ -27,6 +27,7 @@
     * Nginx/Apache
     * CGI-scripts
 * #### Front-end
+    * Vue.js
     * JavaScript, JQuery, Ajax, ES7
     * HTML, HTML5
     * CSS3, SCSS, CSS
@@ -36,12 +37,16 @@
     * Sass, Less
     * Photoshop
     * Qt App, PyQt, PHP-Qt, Qt C++
+* #### Database
+    * MySQL
+    * PostgreSQL
+    * MongoDB
 * #### Back-end
+    * Codeigniter
     * Python
     * Php
     * Lavarel
     * Django
-    * MySQL, PostgreSQL
     * Jupyter    
     * MPI, Cuda - Paralell Programming 
 * #### Machine Learning
@@ -60,7 +65,7 @@
 ## Work Experience
 * #### Full Stack Developer
 
-   ##### R2000: from August 2017 to current time
+   ##### R2000: from August 2017 to August 2019
    
    Workflow as a software development platform.
    * Web Scraping russian government sites(registries with information about organizations)
@@ -72,4 +77,18 @@
    * Front-End application
    * Build RestFullAPI
          
-  Technologies: Python, PHP, Django, MySql, PostgreSql, Nginx, Bootstrap, MDL, HTML, CSS.
+  Technologies: Python, PHP, Django, MySql, MDL
+     
+  ##### Unilight: from September 2019 to current time
+   
+   Workflow as a software development platform.
+   * Web Scraping russian government sites(registries with information about organizations)
+   * Export xml from ftp zakupki.gov.ru and processing result(~1 000 000 files in just 1 days)
+   * Defined an architecture
+   * Configured production server
+   * Contenerized tests
+   * Implemented the core functionality
+   * Front-End application
+   * Build RestFullAPI
+         
+  Technologies: PHP, PostgreSql, Codeigniter, Vue.js, Bash
