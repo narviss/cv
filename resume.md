@@ -67,9 +67,10 @@
 
    ##### R2000: from August 2017 to August 2019
    
-   Workflow as a software development platform.
-   * Web Scraping russian government sites(registries with information about organizations)
-   * Export xml from ftp zakupki.gov.ru and processing result(~1 000 000 files in just 1 days)
+   Web Scraping russian government sites(registries with information about organizations)
+   Full integration(Import/Export and etc) with zakupki.gov.ru
+   
+   Workflow as a software development platform:
    * Defined an architecture
    * Configured production server
    * Contenerized tests
@@ -81,13 +82,14 @@
      
   ##### Unilight: from September 2019 to current time
    
-   Workflow as a software development platform.
-   * Web Scraping russian government sites(registries with information about organizations)
-   * Export xml from ftp zakupki.gov.ru and processing result(~1 000 000 files in just 1 days)
+   Development of internal commercial software for controlling smart devices
+   
+   Workflow as a software development platform:
    * Defined an architecture
    * Configured production server
    * Contenerized tests
    * Implemented the core functionality
+   * Back-End application
    * Front-End application
    * Build RestFullAPI
          
