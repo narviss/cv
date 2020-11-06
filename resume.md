@@ -43,6 +43,7 @@
     * MongoDB
 * #### Back-end
     * Codeigniter
+    * MQTT
     * Python
     * Php
     * Lavarel
@@ -93,4 +94,4 @@
    * Front-End application
    * Build RestFullAPI
          
-  Technologies: PHP, PostgreSql, Codeigniter, Vue.js, Bash
+  Technologies: PHP, PostgreSql, Codeigniter, Vue.js, Bash, MQTT
